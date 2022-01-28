@@ -1,5 +1,6 @@
 
 net5.0-windows/
+net6.0-windows/
 
 Aktualisieren/Newtonsoft.Json.dll
 
@@ -12,3 +13,5 @@ Aktualisieren/SpsProjekteAktualisieren.pdb
 Aktualisieren/SpsProjekteAktualisieren.runtimeconfig.dev.json
 
 Aktualisieren/SpsProjekteAktualisieren.runtimeconfig.json
+
+
